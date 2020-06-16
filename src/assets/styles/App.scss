@@ -1,5 +1,8 @@
-body {
-    margin: 0;
-    background-color: red;
-    color: white;
+@import './components/Media.scss';
+
+body{
+    margin: 0px;
+    background-color: #8F57FD;
+    font-family: 'Muli', sans-serif;
+    
 }
